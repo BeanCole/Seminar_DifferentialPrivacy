@@ -18,3 +18,14 @@ Dự án được thực hiện bằng Python và Jupyter Notebook. Lý do chọ
 - Dữ liệu: Tải từ Moodle (train.csv và test.csv). Đặt các file dữ liệu vào thư mục data/ trong repository.
 
 Lưu ý: Không sử dụng các thư viện chuyên dụng cho machine learning như sklearn cho phần huấn luyện mô hình. Chỉ dùng cho các tác vụ phụ như đọc dữ liệu. Code được kiểm tra để đảm bảo chạy mà không lỗi.
+
+## Cài Đặt
+Clone repository về máy:
+        https://github.com/BeanCole/Seminar_DifferentialPrivacy.git
+Cài đặt các thư viện cần thiết (nếu chưa có):
+        pip install -r requirements.txt
+
+## Thành Viên Nhóm
+
+Trần Anh Tú - 22120400
+Hoàng Ngọc Tuệ - 22120407
