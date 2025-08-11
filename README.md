@@ -27,5 +27,5 @@ Cài đặt các thư viện cần thiết (nếu chưa có):
 
 ## Thành Viên Nhóm
 
-Trần Anh Tú - 22120400
+Trần Anh Tú - 22120400  
 Hoàng Ngọc Tuệ - 22120407
